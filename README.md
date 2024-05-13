@@ -6,10 +6,7 @@ Kebun Binatang Ragunan adalah salah satu destinasi populer di Jakarta, Indonesia
 
 ## Graf
 ![Graf Peta Kebun Binatang Ragunan dari Pintu Utara I sampai Pintu Timur melalui Kadang Hewan Primata](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Graf.jpg)
-
-## Visualiasi
-![Visualisasi Rute Terpendek dari Pintu Utara I sampai Pintu Timur Kebun Binatang Ragunan melalui Kadang Hewan Primata](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Visualisasi.png)
-
+```
 Keterangan:
 A : Pintu masuk utara 1
 B : Kandang primata
@@ -22,6 +19,10 @@ H : Kandang orang utan kalimantan
 I : Kandang orang utan sumatra
 J : Kandang siamang terbuka
 K : Loket Timur
+```
+
+## Visualisasi
+![Visualisasi Rute Terpendek dari Pintu Utara I sampai Pintu Timur Kebun Binatang Ragunan melalui Kadang Hewan Primata](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Visualisasi.png)
 
 ## Output
 ```
