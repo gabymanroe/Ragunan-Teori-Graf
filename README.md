@@ -7,4 +7,4 @@ Kebun Binatang Ragunan adalah salah satu destinasi populer di Jakarta, Indonesia
 ## Contoh Visualiasi
 
 ## Laporan
-Laporan dapat di akses [di sini](
+Laporan dapat di akses [di sini](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Penerapan%20Algoritma%20A_%20dalam%20Mencari%20Rute%20Terpendek%20dari%20Pintu%20Utara%20I%20ke%20Pintu%20Keluar%20Timur%20Kebun%20Binatang%20Ragunan%20melalui%20Kadang%20Hewan%20Primata.pdf)
