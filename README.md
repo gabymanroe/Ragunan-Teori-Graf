@@ -5,10 +5,23 @@
 Kebun Binatang Ragunan adalah salah satu destinasi populer di Jakarta, Indonesia, yang menawarkan beragam atraksi dan tempat wisata. Namun, navigasi di dalamnya dapat menjadi rumit, seperti ketika mencari rute terpendek dari Pintu Utara I ke Pintu Keluar Timur melalui Kadang Hewan Primata. Untuk mengatasi tantangan navigasi ini, Algoritma A* (Astar) dipertimbangkan sebagai solusi yang potensial. Algoritma A* adalah algoritma pencarian jalur dalam graf dari sebuah titik awal yang diberikan menuju sebuah titik tujuan yang diberikan. Algoritma ini menggunakan "perkiraan heuristik" h(x) yang memberikan estimasi jalur terbaik yang melalui titik tersebut. Jarak antar dua simpul dapat dihitung dari koordinat kedua simpul atau melalui Google Maps.
 
 ## Graf
-
+![Graf Peta Kebun Binatang Ragunan dari Pintu Utara I sampai Pintu Timur melalui Kadang Hewan Primata](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Graf.jpg)
 
 ## Visualiasi
-![](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Visualisasi.png)
+![Visualisasi Rute Terpendek dari Pintu Utara I sampai Pintu Timur Kebun Binatang Ragunan melalui Kadang Hewan Primata](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Visualisasi.png)
+
+Keterangan:
+A : Pintu masuk utara 1
+B : Kandang primata
+C : Kandang orang utan kalimantan
+D : Kandang siamang
+E : Kandang mamalia kecil
+F : Kandang orang utan
+G : Kandang orang utan
+H : Kandang orang utan kalimantan
+I : Kandang orang utan sumatra
+J : Kandang siamang terbuka
+K : Loket Timur
 
 ## Output
 ```
