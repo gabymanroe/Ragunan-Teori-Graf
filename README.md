@@ -7,5 +7,11 @@ Kebun Binatang Ragunan adalah salah satu destinasi populer di Jakarta, Indonesia
 ## Contoh Visualiasi
 ![](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Visualisasi.png)
 
+## Output
+'''
+Rute ditemukan: ['A', 'B', 'C', 'F', 'K']
+Jarak antara simpul asal dan tujuan: 1350 meter
+'''
+
 ## Laporan
 Laporan dapat di akses [di sini](https://github.com/gabymanroe/Teori-Graf-Algoritma-A-star/blob/main/Penerapan%20Algoritma%20A_%20dalam%20Mencari%20Rute%20Terpendek%20dari%20Pintu%20Utara%20I%20ke%20Pintu%20Keluar%20Timur%20Kebun%20Binatang%20Ragunan%20melalui%20Kadang%20Hewan%20Primata.pdf)
